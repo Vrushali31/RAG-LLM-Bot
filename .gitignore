@@ -1,0 +1,43 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output or temporary files
+*.log
+*.tmp
+*.bak
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Jupyter runtime files
+*.local/share/jupyter/runtime/
+
+# Coverage, test, and analysis tool caches
+.pytest_cache/
+.mypy_cache/
+.pyright/
+.cache/
+coverage.xml
+htmlcov/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Notebook extensions or nbconvert outputs
+nbconvert_output/
