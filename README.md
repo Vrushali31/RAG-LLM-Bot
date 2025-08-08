@@ -1,4 +1,4 @@
-# 🧠 RAG-LLM-Bot — Chat with your PDF!
+# 🧠 DocuSense : RAG-LLM-Bot!
 
 A Retrieval-Augmented Generation (RAG) chatbot powered by [LangChain](https://www.langchain.com/), [Ollama](https://ollama.com/), and [Gradio](https://gradio.app/) that lets you upload any PDF and ask questions conversationally based on its content.
 
